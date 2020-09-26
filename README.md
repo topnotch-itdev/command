@@ -26,9 +26,10 @@ $ git commit -m "Message add
 > second
 > third"
 
-# 4. Git check status
+# 4. Git check status and difference
 
 $ git status
+
 $ git diff
 
 # 5. Git branch delete command
