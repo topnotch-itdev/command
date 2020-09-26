@@ -25,3 +25,12 @@ $ git commit -m "Message add
 > first
 > second
 > third"
+
+# 4. Git check status
+
+$ git status
+$ git diff
+
+# 5. Git branch delete command
+
+$ git branch -d [branch name]
