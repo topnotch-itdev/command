@@ -40,4 +40,5 @@ $ git branch -d [branch name]
 A rebase is an alternative to a merge for combining multiple branches. Whereas a merge creates a single commit with two parents, leaving a non-linear history, a rebase replays the commits from the current branch onto another, leaving a linear history. In essence, this is an automated way of performing several cherry-picks in a row.
 
 $ git rebase [branch name] // in master branch
+
 $ git push origin master
