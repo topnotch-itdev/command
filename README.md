@@ -42,3 +42,9 @@ A rebase is an alternative to a merge for combining multiple branches. Whereas a
 $ git rebase [branch name] // in master branch
 
 $ git push origin master
+
+# 6. How to fix Aborting error When pull with git command `git pull`
+
+- Select Stash > Stash in Branch's `More Actions` 
+- $ git pull
+- Again, in Stash list, Click Stash `Pop Latest Stash` or `Pop Stash...`
