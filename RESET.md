@@ -2,4 +2,4 @@
 - git commit saves a snapshot of the stage as a commit.
 - git reset -- files unstages files; that is, it copies files from the latest commit to the stage. Use this command to "undo" a git add files. You can also git reset to unstage everything.
 - git checkout -- files copies files from the stage to the working directory. Use this to throw away local changes.
-- git ssh test
+- To work with ssh key, try `git@github.com:PlanetGit/command.git` with ssh option on code -> clone tabs.
